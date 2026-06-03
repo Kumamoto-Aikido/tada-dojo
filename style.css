@@ -5,8 +5,6 @@
 
 :root{
 
---red:#A61E1E;
-   
 --green:#7da88a;
 
 --green-dark:#5d7f68;
@@ -379,7 +377,7 @@ font-size:.7rem;
 letter-spacing:.2em;
 
 color:
-var(--red);
+var(--green);
 
 margin-bottom:10px;
 
